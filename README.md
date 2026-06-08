@@ -1,5 +1,14 @@
 # The Unofficial Guide — Project 1
 
+**Demo Video:** <div>
+    <a href="https://www.loom.com/share/a66042d93af84a04a208571dbb56ab03">
+      <p>Loom Message - 8 June 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a66042d93af84a04a208571dbb56ab03">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a66042d93af84a04a208571dbb56ab03-4c163cd66d53ae34-full-play.gif#t=0.1">
+    </a>
+  </div>
+
 ---
 
 ## Domain
