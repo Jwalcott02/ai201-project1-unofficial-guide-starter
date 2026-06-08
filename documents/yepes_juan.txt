@@ -1,0 +1,42 @@
+Professor: Juan Yepes
+Department: Computer Science, FAU
+Overall Rating: 4.5/5
+Difficulty: 1.8/5
+Would Take Again: 88%
+
+Courses Taught:
+- COP3035 (Introduction to Python)
+- COT2000 (Foundations of Computing)
+- CAP4773 (Introduction to Data Science and Analytics)
+
+Reviews:
+
+Quality: 5.0 | Difficulty: 3.0 | Course: COP3035 | Date: Apr 29, 2026
+I had taken Juan Yepes for three classes. I fully recommend his classes. Super nice professor and the exams are reliable once you fully learn the material.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: COP3035 | Date: Apr 7, 2026
+One of the best professors at FAU. He grades really fairly and his assignments are actually fun to do. His exams are fully multiple choice. His lectures are boring though.
+
+Quality: 2.0 | Difficulty: 4.0 | Course: COP3035 | Date: Dec 11, 2025
+Whenever I had an issue the professor would never reply to emails. There were submission errors and they wanted proof of attendance even if you were in class.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: COP3035 | Date: Oct 27, 2025
+If you have no prior Python experience, this course will be challenging. You need to practice following the sequence of a loop in your head. The exams were hard and are in-person. Extra credit available.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: COP3035 | Date: Jul 28, 2025
+Juan Yepes was an excellent instructor. He conveys ideas very well and gives students plenty of time for quizzes and homework. Recommend him for Python even if you have no prior CS experience.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: COT2000 | Date: Apr 30, 2025
+Great professor for Foundations of Computing. Exams are easy if you go to lecture and do homework. Extra credit offered if assignments are done in LaTeX. Best professor in the CS department so far.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: COP3035 | Date: Apr 23, 2025
+Relaxed and supportive professor who made Python approachable and fun. Being able to use notes during exams was a big plus. One of the best instructors I have had.
+
+Quality: 2.0 | Difficulty: 1.0 | Course: CAP4773 | Date: Nov 30, 2024
+I did not get any knowledge from his Data Science class. He seems like a nice guy but his teaching did not work for me.
+
+Quality: 1.0 | Difficulty: 1.0 | Course: CAP4773 | Date: Nov 18, 2024
+I do not recommend his Data Science class at all. He does not understand data science well and just reads slides.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: COP3035 | Date: Jun 6, 2024
+Chill professor who actually cares about student success and made Python very enjoyable. Homework and a lab due every week. Allowed notes for exams. Cannot recommend enough!

@@ -1,0 +1,70 @@
+FAU Bachelor of Science in Computer Science
+Program Summary (Requires 120 credits)
+Source: fau.edu/engineering/eecs/undergraduate/computer-science/program-sumary-bscs/
+
+DEGREE OVERVIEW
+Total Credits Required: 120
+- General Education: 24 credits
+- Mathematics: 11 credits
+- Science: 7 credits
+- Common Core: 24 credits
+- Computer Science - Computer Engineering Core: 15 credits
+- Computer Science Core: 12 credits
+- Semi-Core Group 1: 6 credits
+- Semi-Core Group 2: 6 credits
+- Electives: 15 credits
+
+MATHEMATICS REQUIREMENTS
+- Calculus with Analytic Geometry 1 (MAC 2311) - 4 credits
+- Calculus with Analytic Geometry 2 (MAC 2312) - 4 credits
+- Matrix Theory (MAS 2103) - 3 credits
+
+COMMON CORE COURSES (Required)
+- Introduction to Data Science and Analytics (CAP 4773) - 3 credits
+- Computer Logic Design (CDA 3203) - 3 credits
+- Computer Architecture (CDA 4102) - 3 credits
+- Foundations of Computing (COT 2000) - 3 credits
+- Programming 1 (COP 2220) - 3 credits
+- Stochastic Models (EEE 4541) - 3 credits
+- Engineering Design 1 (EGN 4950C) - 3 credits
+- Engineering Design 2 (EGN 4952C) - 3 credits
+
+COMPUTER SCIENCE - COMPUTER ENGINEERING CORE (Required)
+- Principles of Software Engineering (CEN 4010) - 3 credits
+- Communication Networks (CNT 4007) - 3 credits
+- Programming 2 (COP 3014) - 3 credits
+- Data Structures and Algorithm Analysis (COP 3530) - 3 credits
+- Computer Operating Systems (COP 4610) - 3 credits
+
+COMPUTER SCIENCE CORE (Required)
+- Introduction to Database Structures (COP 3540) - 3 credits
+- Principles of Programming Languages (COP 4020) - 3 credits
+- Design and Analysis of Algorithms (COT 4400) - 3 credits
+- Theory of Computation (COT 4420) - 3 credits
+
+SEMI-CORE GROUP 1 (Select two courses)
+- Introduction to Deep Learning (CAP 4613) - 3 credits
+- Introduction to Artificial Intelligence (CAP 4630) - 3 credits
+- Introduction to Data Mining and Machine Learning (CAP 4770) - 3 credits
+- Applied Cryptography and Security (CIS 4634) - 3 credits
+- Foundations of Cybersecurity (CNT 4403) - 3 credits
+
+SEMI-CORE GROUP 2 (Select two courses)
+- Introduction to Internet Computing (COP 3813) - 3 credits
+- Python Programming (COP 4045) - 3 credits
+- Object-Oriented Design and Programming (COP 4331) - 3 credits
+- Mobile App Project (COP 4655) - 3 credits
+- Advanced Database Systems (COP 4703) - 3 credits
+- Full-Stack Web Development (COP 4808) - 3 credits
+- Foundations of Cloud Computing (COP 4814) - 3 credits
+
+ELECTIVES (15 credits)
+Any 4000-level course offered by the EECS department.
+Certain 5000 or 6000-level courses may also count. See advisor for current list.
+
+SPECIALTY TRACKS
+Internet Technology: CNT 4104, CNT 4403, COP 4655, COP 4703
+Software Engineering: CEN 4910, COP 4045, COP 4331
+Cybersecurity: CIS 4213, CIS 4367, CNT 4403, CNT 4411
+Data Science: CAP 4613, CAP 4630, CAP 4770
+Computer Architecture: CDA 4102, CDA 4210, CDA 4204

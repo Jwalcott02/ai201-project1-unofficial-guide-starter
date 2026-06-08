@@ -1,0 +1,50 @@
+Professor: Ali Ibrahim
+Department: Computer Science, FAU
+Overall Rating: 4.2/5
+Difficulty: 2.9/5
+Would Take Again: 75%
+
+Courses Taught:
+- CAP4770 (Introduction to Data Mining and Machine Learning)
+- COP2034 (Introduction to Programming)
+
+Reviews:
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CAP4770 | Date: Aug 28, 2025
+I took Data Science with this professor. He explains everything step by step and is always willing to help even with questions from other classes. Grades fairly. As long as you complete your projects during the semester that is usually enough to get an A.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CAP4770 | Date: May 4, 2025
+He has everything memorized and does not even look at notes when lecturing. This class is important if you want to understand transformers in large language models. Cosine similarity is the most important concept in this class.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CAP4770 | Date: Dec 13, 2024
+Great prof. He wants you to pass with an A. Course material is hard but he simplifies it. Has 5 assignments and all of them are projects which help you understand the concepts.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CAP4770 | Date: Dec 12, 2024
+No tests, one quiz, rest all homework. Really cares that you understand the topic. Helpful during office hours. Records lectures on Zoom. Homework was real-life scenario problems.
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CAP4770 | Date: Dec 10, 2024
+Class is only graded on 5 assignments throughout the semester. The datasets are huge and running machine learning algorithms takes forever to compile. Lectures are a bit boring but straightforward.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CAP4770 | Date: Dec 10, 2024
+Professor Ibrahim has shown time and again that he cares about students achieving high grades. Even when assignment timeframes were short he always gave extensions.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CAP4770 | Date: Nov 20, 2024
+Outstanding professor for Data Mining. Makes complex concepts like machine learning, dimensionality reduction, and data analysis approachable.
+
+Quality: 3.0 | Difficulty: 3.0 | Course: CAP4770 | Date: Nov 11, 2024
+Great person but the way he teaches is rough. Terrible handwriting, goes into unnecessary math, and rambles a lot. Assignments are in Python but lectures are PhD level math.
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CAP4770 | Date: Oct 25, 2024
+Professor rambles a lot in lectures, jumping from topic to topic. If he was more organized he would be a much better teacher.
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CAP4770 | Date: Oct 4, 2024
+Nice guy but lectures are terrible. He just rambles and does not actually explain anything. Few big convoluted assignments instead of smaller ones that build understanding.
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CAP4770 | Date: Dec 12, 2023
+Lectures mainly mathematical but assignments are purely coding. If you follow along coding with him during lectures it is far easier. Very generous with extensions and grading.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CAP4770 | Date: Nov 1, 2023
+Dr. Ibrahim teaching approach is exceptional. His in-class explanations of assignment materials are incredibly beneficial. Goes above and beyond by programming and demonstrating concepts during sessions.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: COP2034 | Date: Dec 7, 2022
+Took Professor Ibrahim without any prior programming knowledge and he was a great teacher who explained in detail. In-class reviews were very helpful for exams.

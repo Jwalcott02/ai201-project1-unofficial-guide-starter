@@ -1,0 +1,49 @@
+Professor: Safak Kayikci
+Department: Computer Science, FAU
+Overall Rating: 3.7/5
+Difficulty: 2.2/5
+Would Take Again: 78%
+
+Courses Taught:
+- CEN3062C (Software Engineering)
+- CEN4010 (Principles of Software Engineering)
+- COP4020 (Programming Languages)
+- CAP4773 (Introduction to Data Science and Analytics)
+
+Reviews:
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CEN3062C | Date: May 1, 2026
+His lectures were helpful and easy to understand. Lab assignments and regular assignments are not too difficult and have clear instructions. He gives you a lot of time to complete them. The midterm and final were based on lectures and were very easy. Would highly recommend!
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CEN3062C | Date: Dec 13, 2025
+Very structured and professional instructor. Course content is well planned, and labs are directly aligned with exams and assignments. Expectations are clear, and effort is rewarded.
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CEN3062C | Date: Dec 3, 2025
+The online exams are proctored, but the material is the minimum of what you should know for the course. The assignments correlate with the material being taught in class. I would take him again for sure!
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CEN3062C | Date: Dec 2, 2025
+Awesome professor. Links class concepts to real implementations. Few assignments but each one is high quality and fun to work on. Graded generously. Free textbook accessible through Canvas. Posts Python code from lectures.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CEN3062C | Date: Nov 27, 2025
+One of the kindest and most supportive professors at the university. Always willing to help with class material and questions beyond the course. Highly recommend.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CEN3062C | Date: Nov 6, 2025
+This guy is great. If you follow along while he codes you could honestly do the assignments. Midterm and final were fair. I actually had FUN doing some of his assignments, something I can't say for many other professors.
+
+Quality: 1.0 | Difficulty: 3.0 | Course: COP4020 | Date: Oct 28, 2025
+DO NOT TAKE him for Programming Languages. The midterm had nothing to do with class or the book. No study guide, no practice tests, and it's LockDown browser with camera. The worst.
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CEN3062C | Date: Sep 5, 2025
+The course focuses on learning software concepts through coding. Topics are explained well and assignments are similar to the readings. Textbook is free on Canvas. TAs are very good.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CEN4010 | Date: Aug 12, 2025
+A good and informative course. Just submit your projects and assignments by the due dates and you will pass!
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CEN4010 | Date: Mar 27, 2025
+The lectures were not engaging and did not explain concepts well. Just watch him code and try not to fall asleep. Boring and not engaging.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CAP4773 | Date: Jan 28, 2025
+Professor Kayikci explains concepts clearly and uses real-world examples. Assignments are straightforward and he is not a tough grader. Approachable and always willing to help.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CEN4010 | Date: Feb 3, 2025
+Mostly quiz and project-based work with little homework. Reviewing lectures and notes should be sufficient.

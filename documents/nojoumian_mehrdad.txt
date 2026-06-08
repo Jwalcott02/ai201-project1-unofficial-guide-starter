@@ -1,0 +1,51 @@
+Professor: Mehrdad Nojoumian
+Department: Computer Science, FAU
+Overall Rating: 4.3/5
+Difficulty: 2.9/5
+Would Take Again: 88%
+
+Courses Taught:
+- COP3530 (Data Structures and Algorithm Analysis)
+- CIS4634 (Applied Cryptography and Security)
+- CNT4403 (Foundations of Cybersecurity)
+
+Reviews:
+
+Quality: 4.0 | Difficulty: 3.0 | Course: COP3530 | Date: Dec 17, 2025
+This professor is great. He explains content well and often gives bonus lectures about important CS topics. You can tell he genuinely cares about our careers. Tests are hard but if you attend lectures he will help you out.
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CIS4634 | Date: Dec 16, 2025
+The professor does not seem welcoming of questions and can come across as having a strong attitude. There is no midterm, only a final exam, which adds pressure.
+
+Quality: 4.0 | Difficulty: 3.0 | Course: COP3530 | Date: Dec 15, 2025
+Professor Nojoumian may seem strict and serious at first, but he genuinely cares that students understand data structures and algorithm analysis for job interviews and careers. Attendance and participation count as extra credit.
+
+Quality: 4.0 | Difficulty: 5.0 | Course: COP3530 | Date: Nov 28, 2025
+Extremely knowledgeable and explains concepts well. C++ knowledge and discrete math are expected to be known going in. Workload is easy but tests are hard because questions are very specifically chosen.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CIS4634 | Date: Nov 20, 2025
+Tried to scare us away day one but the class is easy. Few assignments, a group project, and a final. Just show up and take notes. He provides his own notes if you miss something.
+
+Quality: 2.0 | Difficulty: 3.0 | Course: COP3530 | Date: Jun 25, 2025
+No recorded lectures and counts attendance. If you miss a class, hope you know someone who can fill you in. Tons of extra credit but some require more time than the semester allows.
+
+Quality: 4.0 | Difficulty: 4.0 | Course: COP3530 | Date: Dec 18, 2024
+He curves one exam at the end of the semester. Very clear on where he wants students to learn from him or the TA, not Google. Lectures are hard to follow but slides help with understanding.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CNT4403 | Date: Aug 7, 2024
+All 24 lectures were posted on the first day so you can watch them whenever. Professor and TA were lenient on grading. Homework was simple. Super interesting class overall.
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CNT4403 | Date: Aug 7, 2024
+Very straightforward class. Just watch the lectures, take the final, and submit your final project. You have almost the whole semester for the project.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CNT4403 | Date: Aug 7, 2024
+Professor Mehrdad is one of the best professors at FAU. He truly caters to students needs and sets clear expectations. Very flexible with office hours and offers bonus lectures and extra credit every semester.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CNT4403 | Date: Aug 6, 2024
+Most fair professor I have had. Assignments were straightforward and tests had no tricks. Posted all lectures at the beginning of the semester. Would definitely take him again.
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CNT4403 | Date: Jul 27, 2024
+No clear instructions, no clear grading, no feedback on assignments. The final exam just said to study all materials. One of the worst experiences I have had.
+
+Quality: 3.0 | Difficulty: 4.0 | Course: COP3530 | Date: Aug 3, 2023
+Knowledgeable. The course material has a lot of depth and real life interview questions are mixed in with fundamentals making it difficult to isolate what to study. Midterm and final weigh heavily.

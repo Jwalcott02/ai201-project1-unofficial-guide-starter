@@ -1,0 +1,53 @@
+Professor: Maria Petrie
+Department: Computer Science, FAU
+Overall Rating: 3.1/5
+Difficulty: 3.2/5
+Would Take Again: 47%
+
+Courses Taught:
+- CDA3203 (Computer Logic Design)
+- CDA3201C (Introduction to Logic Design)
+
+Reviews:
+
+Quality: 1.0 | Difficulty: 4.0 | Course: CDA3203 | Date: Apr 21, 2026
+Started off easy, but somewhere in the middle started giving a million quizzes even if material was covered poorly. Quiz questions often have no partial credit, just big 0s.
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CDA3201 | Date: Apr 17, 2026
+She is a good professor. You will have a quiz almost every week. Things might seem disorganized but as long as you try your best you will do well. She gives you opportunities to pick yourself back up.
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CDA3203 | Date: Apr 14, 2026
+Dr. Petrie is very disorganized. Her lectures are extremely boring and hard to follow. She gives random quizzes with no warning or study prep time.
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CDA3203 | Date: Mar 31, 2026
+No announcement of quizzes, no clear explanation of what to expect. Labs have little explanation and professor does not teach effectively in class. Do NOT recommend.
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CDA3203 | Date: Mar 19, 2026
+Her class is extremely disorganized. Half your grade relies on quizzes and the other half on labs which are very difficult. Her lectures are hard to follow. She is kind as a person but the class structure is very poor.
+
+Quality: 1.0 | Difficulty: 4.0 | Course: CDA3203 | Date: Mar 5, 2026
+Communication from the professor is minimal. Weekly quizzes feel excessive and leave little time to absorb the material. Office hours are practically nonexistent.
+
+Quality: 3.0 | Difficulty: 2.0 | Course: CDA3203 | Date: Dec 17, 2025
+The professor is very sweet and caring, but spends too much time on the same topic which left many modules unfinished. Labs are unorganized and often do not have clear instructions.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3203 | Date: Dec 12, 2025
+Dr. Petrie actually cares that her students learn, which is rare at FAU. Yes the content is challenging and she is fairly disorganized, but if you ask for help and attend lectures you will succeed.
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CDA3203 | Date: Dec 9, 2025
+Hands down the worst professor I have ever had. The course was not structured at all. She will notify for a quiz only a few days before the due date.
+
+Quality: 1.0 | Difficulty: 2.0 | Course: CDA3203 | Date: Nov 23, 2025
+Great person but not a great professor. Not being told when a quiz is can make you hate the course. She did not follow the syllabus and lab instructions are vague. Best advice: use YouTube and Google to help.
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CDA3203 | Date: Nov 22, 2025
+Petrie cares about students but explanations of course content are hard to follow. Usually necessary to go to outside sources like YouTube for a clearer explanation.
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CDA3201 | Date: Nov 20, 2025
+Very sweet person but the course is poorly structured. Uses confusing software called Quartus which is barely related to the class content.
+
+Quality: 1.0 | Difficulty: 2.0 | Course: CDA3203 | Date: Oct 30, 2025
+One of the worst professors at FAU. All she does is assign videos and hope you watch them. On the first day TAs expected students to watch videos when the module was not even published yet.
+
+Quality: 1.0 | Difficulty: 4.0 | Course: CDA3203 | Date: Oct 22, 2025
+Nice as a person but horrible as a professor. Lots of quizzes assuming you watched the videos. Labs are unclear and vague. At least there is plenty of extra credit.

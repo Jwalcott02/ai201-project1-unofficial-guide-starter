@@ -1,0 +1,39 @@
+Professor: Baseem Alhalabi
+Department: Computer Science, FAU
+Overall Rating: 4.5/5
+Difficulty: 2.6/5
+Would Take Again: 84%
+
+Courses Taught:
+- CDA4630 (Introduction to Embedded Systems)
+- CDA4102 (Computer Architecture)
+- CDA3331C (Introduction to Microprocessor Systems)
+
+Reviews:
+
+Quality: 5.0 | Difficulty: 1.0 | Course: CDA4630 | Date: Dec 18, 2024
+Alhalabi is the GOAT. Most practical course in the CE curriculum. First half you learn about sensors and actuators and wire up a circuit. Then you get into teams and build a project using a microcontroller and present it at the end. Just manage your time well.
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CDA4102 | Date: Aug 1, 2024
+One of the best professors I have ever had. He makes everything very easy to understand and he is really funny. He ensures everyone is on the same page especially at the start of the semester. Highly recommend.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA4630 | Date: May 7, 2024
+Engaging and has a sense of humor. Whenever we had a problem he did his absolute best to help us figure it out. I have taken 4 of his classes. If you want to be challenged and learn, he is definitely the guy to take.
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CDA4102 | Date: May 3, 2024
+Bad teaching. He assumed we knew all our logic design and lectured on advanced topics not tested on quizzes or final. Lectures are handwritten and hard to follow. Skipped class many times.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3331C | Date: Dec 3, 2022
+One of my best classes at FAU. What he taught helped in later courses. Labs were fun and educational. We need more hands-on experience like this class.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA3331C | Date: Sep 17, 2022
+Alhalabi genuinely cares that students understand the material. He expects students to study outside of class, keep up with weekly readings, and attend lectures.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA3331 | Date: Aug 3, 2021
+Dr. Alhalabi is the best professor I have ever had. Very knowledgeable and genuinely cares about his students. He has a lot of passion for teaching and dedicates a lot of time to helping students.
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CDA3331C | Date: Dec 14, 2020
+His goal is clear. He wants students to understand and love the material. Lectures were super clear and his labs are challenging but fun. The final can be easy if you put in the effort.
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CDA4630 | Date: Nov 10, 2020
+Awesome class. Only consists of a midterm and a final group project. It is a hands-on course so do not expect it to be lecture heavy. He provides insight on your project and directs you well.
